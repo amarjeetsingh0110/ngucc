@@ -1,0 +1,5 @@
+2019-09-30 12:07:43 INFO   - ======>>> LOGGER File Loaded Successfully...!!!
+2019-09-30 12:07:43 INFO   - ======>>> CONFIGURATION File Loaded Successfully...!!!
+2019-09-30 12:07:43 INFO   - ======>>> LOCATOR File Loaded Successfully...!!!
+2019-09-30 12:07:48 INFO   - Chrome Browser Launched Successfully...!!!!
+2019-09-30 12:07:52 INFO   - Navigated to : http://151.106.59.109/
